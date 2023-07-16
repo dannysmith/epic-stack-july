@@ -1,4 +1,4 @@
-app = "epic-stack-july-b0dd"
+app = "epic-stack-july"
 primary_region = "sjc"
 kill_signal = "SIGINT"
 kill_timeout = 5
